@@ -1,0 +1,102 @@
+<root>
+<matches>
+	<mt id="1" res="3:1" pen="f" />
+	<mt id="2" res="1:0" pen="f" />
+	<mt id="3" res="1:5" pen="f" />
+	<mt id="4" res="3:1" pen="f" />
+	<mt id="5" res="3:0" pen="f" />
+	<mt id="6" res="1:3" pen="f" />
+	<mt id="7" res="1:2" pen="f" />
+	<mt id="8" res="2:1" pen="f" />
+	<mt id="9" res="2:1" pen="f" />
+	<mt id="10" res="3:0" pen="f" />
+	<mt id="11" res="2:1" pen="f" />
+	<mt id="12" res="4:0" pen="f" />
+	<mt id="13" res="0:0" pen="f" />
+	<mt id="14" res="1:2" pen="f" />
+	<mt id="15" res="2:1" pen="f" />
+	<mt id="16" res="0:0" pen="f" />
+	<mt id="17" res="1:1" pen="f" />
+	<mt id="18" res="2:3" pen="f" />
+	<mt id="19" res="0:2" pen="f" />
+	<mt id="20" res="0:4" pen="f" />
+	<mt id="21" res="2:1" pen="f" />
+	<mt id="22" res="2:1" pen="f" />
+	<mt id="23" res="0:0" pen="f" />
+	<mt id="24" res="0:1" pen="f" />
+	<mt id="25" res="2:5" pen="f" />
+	<mt id="26" res="1:2" pen="f" />
+	<mt id="27" res="1:0" pen="f" />
+	<mt id="28" res="2:2" pen="f" />
+	<mt id="29" res="1:0" pen="f" />
+	<mt id="30" res="1:0" pen="f" />
+	<mt id="31" res="2:4" pen="f" />
+	<mt id="32" res="2:2" pen="f" />
+	<mt id="33" res="2:0" pen="f" />
+	<mt id="34" res="0:3" pen="f" />
+	<mt id="35" res="1:4" pen="f" />
+	<mt id="36" res="1:3" pen="f" />
+	<mt id="37" res="0:1" pen="f" />
+	<mt id="38" res="0:0" pen="f" />
+	<mt id="39" res="1:4" pen="f" />
+	<mt id="40" res="2:1" pen="f" />
+	<mt id="41" res="2:3" pen="f" />
+	<mt id="42" res="3:1" pen="f" />
+	<mt id="43" res="0:3" pen="f" />
+	<mt id="44" res="0:0" pen="f" />
+	<mt id="45" res="0:1" pen="f" />
+	<mt id="46" res="2:1" pen="f" />
+	<mt id="47" res="1:1" pen="f" />
+	<mt id="48" res="0:1" pen="f" />
+	<mt id="49" res="1:1" pen="true" penr="3:2" />
+	<mt id="50" res="2:0" pen="f" />
+	<mt id="51" res="2:1" pen="f" />
+	<mt id="52" res="1:1" pen="true" penr="5:3" />
+	<mt id="53" res="2:0" pen="f" />
+	<mt id="54" res="2:1" pen="f" />
+	<mt id="55" res="1:0" pen="f" />
+	<mt id="56" res="2:1" pen="f" />
+	<mt id="58" res="0:1" pen="f" />
+	<mt id="57" res="2:1" pen="f" />
+	<mt id="60" res="1:0" pen="f" />
+	<mt id="59" res="0:0" pen="true" penr="4:3" />
+	<mt id="61" res="1:7" pen="f" />
+	<mt id="62" res="0:0" pen="true" penr="2:4" />
+	<mt id="63" res="0:3" pen="f" />
+	<mt id="64" res="1:0" pen="f" />
+</matches>
+<winners>
+	<w id="1B" who="NED" />
+	<w id="2B" who="CHI" />
+	<w id="1A" who="BRA" />
+	<w id="2A" who="MEX" />
+	<w id="1D" who="CRC" />
+	<w id="2D" who="URU" />
+	<w id="1C" who="COL" />
+	<w id="2C" who="GRE" />
+	<w id="1F" who="ARG" />
+	<w id="2F" who="NGA" />
+	<w id="1E" who="FRA" />
+	<w id="2E" who="SUI" />
+	<w id="1G" who="GER" />
+	<w id="2G" who="USA" />
+	<w id="1H" who="BEL" />
+	<w id="2H" who="ALG" />
+	<w id="W49" who="BRA" />
+	<w id="W50" who="COL" />
+	<w id="W51" who="NED" />
+	<w id="W52" who="CRC" />
+	<w id="W53" who="FRA" />
+	<w id="W54" who="GER" />
+	<w id="W55" who="ARG" />
+	<w id="W56" who="BEL" />
+	<w id="W58" who="GER" />
+	<w id="W57" who="BRA" />
+	<w id="W60" who="ARG" />
+	<w id="W59" who="NED" />
+	<w id="W61" who="GER" />
+	<w id="L61" who="BRA" />
+	<w id="W62" who="ARG" />
+	<w id="L62" who="NED" />
+</winners>
+</root>
