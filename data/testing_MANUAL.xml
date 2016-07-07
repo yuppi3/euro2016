@@ -1,0 +1,37 @@
+<root>
+
+
+<winners>
+<w id="1A" who="FRA" />
+<w id="2A" who="SUI" />
+<w id="1B" who="WAL" />
+<w id="2B" who="ENG" />
+<w id="1C" who="GER" />
+<w id="2C" who="POL" />
+<w id="1D" who="CRO" />
+<w id="2D" who="ESP" />
+<w id="1E" who="ITA" />
+<w id="2E" who="BEL" />
+<w id="1F" who="HUN" />
+<w id="2F" who="ISL" />
+<w id="3ACD" who="NIR" />
+<w id="3BEF" who="POR" />
+<w id="3CDE" who="IRL" />
+<w id="3ABF" who="SVK" />
+<w id="W37" who="POL" />
+<w id="W38" who="WAL" />
+<w id="W39" who="POR" />
+<w id="W40" who="FRA" />
+<w id="W41" who="GER" />
+<w id="W42" who="BEL" />
+<w id="W43" who="ITA" />
+<w id="W44" who="ISL" />
+<w id="W45" who="POR" />
+<w id="W46" who="WAL" />
+<w id="W47" who="GER" />
+<w id="W48" who="FRA" />
+<w id="W49" who="POR" />
+<w id="W50" who="FRA" />
+
+</winners>
+</root>
