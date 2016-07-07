@@ -1,1 +1,34 @@
-<root><matches><mt id="1" pen="f" res="2:1" /><mt id="2" pen="f" res="0:1" /><mt id="3" pen="f" res="2:1" /><mt id="4" pen="f" res="1:1" /><mt id="5" pen="f" res="0:1" /><mt id="6" pen="f" res="1:0" /><mt id="7" pen="f" res="2:0" /><mt id="8" pen="f" res="1:0" /><mt id="9" pen="f" res="1:1" /><mt id="10" pen="f" res="0:2" /><mt id="11" pen="f" res="0:2" /><mt id="12" pen="f" res="1:1" /><mt id="13" pen="f" res="1:2" /><mt id="14" pen="f" res="1:1" /><mt id="15" pen="f" res="2:0" /><mt id="16" pen="f" res="2:1" /><mt id="17" pen="f" res="0:2" /><mt id="18" pen="f" res="0:0" /><mt id="19" pen="f" res="1:0" /><mt id="20" pen="f" res="2:2" /><mt id="21" pen="f" res="3:0" /><mt id="22" pen="f" res="3:0" /><mt id="23" pen="f" res="1:1" /><mt id="24" pen="f" res="0:0" /><mt id="25" pen="f" res="0:1" /><mt id="26" pen="f" res="0:0" /><mt id="27" pen="f" res="0:3" /><mt id="28" pen="f" res="0:0" /><mt id="29" pen="f" res="0:1" /><mt id="30" pen="f" res="0:1" /><mt id="31" pen="f" res="0:2" /><mt id="32" pen="f" res="2:1" /><mt id="33" pen="f" res="2:1" /><mt id="34" pen="f" res="3:3" /><mt id="35" pen="f" res="0:1" /><mt id="36" pen="f" res="0:1" /><mt id="37" pen="true" penr="4:5" res="1:1" /><mt id="38" pen="f" res="1:0" /><mt id="39" pen="f" res="0:1" /><mt id="40" pen="f" res="2:1" /><mt id="41" pen="f" res="3:0" /><mt id="42" pen="f" res="0:4" /><mt id="43" pen="f" res="2:0" /><mt id="44" pen="f" res="1:2" /><mt id="45" pen="true" penr="3:5" res="1:1" /><mt id="46" pen="f" res="3:1" /><mt id="47" pen="true" penr="6:5" res="1:1" /><mt id="48" pen="f" res="5:2" /><mt id="49" pen="f" res="2:0" /><mt id="50" pen="f" res="0:2" /></matches><winners /></root>
+<root><matches><mt id="1" pen="f" res="2:1" /><mt id="2" pen="f" res="0:1" /><mt id="3" pen="f" res="2:1" /><mt id="4" pen="f" res="1:1" /><mt id="5" pen="f" res="0:1" /><mt id="6" pen="f" res="1:0" /><mt id="7" pen="f" res="2:0" /><mt id="8" pen="f" res="1:0" /><mt id="9" pen="f" res="1:1" /><mt id="10" pen="f" res="0:2" /><mt id="11" pen="f" res="0:2" /><mt id="12" pen="f" res="1:1" /><mt id="13" pen="f" res="1:2" /><mt id="14" pen="f" res="1:1" /><mt id="15" pen="f" res="2:0" /><mt id="16" pen="f" res="2:1" /><mt id="17" pen="f" res="0:2" /><mt id="18" pen="f" res="0:0" /><mt id="19" pen="f" res="1:0" /><mt id="20" pen="f" res="2:2" /><mt id="21" pen="f" res="3:0" /><mt id="22" pen="f" res="3:0" /><mt id="23" pen="f" res="1:1" /><mt id="24" pen="f" res="0:0" /><mt id="25" pen="f" res="0:1" /><mt id="26" pen="f" res="0:0" /><mt id="27" pen="f" res="0:3" /><mt id="28" pen="f" res="0:0" /><mt id="29" pen="f" res="0:1" /><mt id="30" pen="f" res="0:1" /><mt id="31" pen="f" res="0:2" /><mt id="32" pen="f" res="2:1" /><mt id="33" pen="f" res="2:1" /><mt id="34" pen="f" res="3:3" /><mt id="35" pen="f" res="0:1" /><mt id="36" pen="f" res="0:1" /><mt id="37" pen="true" penr="4:5" res="1:1" /><mt id="38" pen="f" res="1:0" /><mt id="39" pen="f" res="0:1" /><mt id="40" pen="f" res="2:1" /><mt id="41" pen="f" res="3:0" /><mt id="42" pen="f" res="0:4" /><mt id="43" pen="f" res="2:0" /><mt id="44" pen="f" res="1:2" /><mt id="45" pen="true" penr="3:5" res="1:1" /><mt id="46" pen="f" res="3:1" /><mt id="47" pen="true" penr="6:5" res="1:1" /><mt id="48" pen="f" res="5:2" /><mt id="49" pen="f" res="2:0" /><mt id="50" pen="f" res="0:2" /></matches><winners>
+<w id="1A" who="FRA" />
+<w id="2A" who="SUI" />
+<w id="1B" who="WAL" />
+<w id="2B" who="ENG" />
+<w id="1C" who="GER" />
+<w id="2C" who="POL" />
+<w id="1D" who="CRO" />
+<w id="2D" who="ESP" />
+<w id="1E" who="ITA" />
+<w id="2E" who="BEL" />
+<w id="1F" who="HUN" />
+<w id="2F" who="ISL" />
+<w id="3ACD" who="NIR" />
+<w id="3BEF" who="POR" />
+<w id="3CDE" who="IRL" />
+<w id="3ABF" who="SVK" />
+<w id="W37" who="POL" />
+<w id="W38" who="WAL" />
+<w id="W39" who="POR" />
+<w id="W40" who="FRA" />
+<w id="W41" who="GER" />
+<w id="W42" who="BEL" />
+<w id="W43" who="ITA" />
+<w id="W44" who="ISL" />
+<w id="W45" who="POR" />
+<w id="W46" who="WAL" />
+<w id="W47" who="GER" />
+<w id="W48" who="FRA" />
+<w id="W49" who="POR" />
+<w id="W50" who="FRA" />
+
+</winners>
+</root>
